@@ -1,6 +1,6 @@
 # misterN64
 
-## My goal here is to stick a misterFPGA board in an N64 shell for a great looking under the TV box that plays NES, SNES and N64.
+## My goal here is to stick a MiSTerFPGA board in an N64 shell for a great looking under the TV box that plays NES, SNES and N64.
 Seeing all the hype around the Analog 3d has given me a craving to play though Ocarina of Time again, which got me thinking i should really play through the whole Legend of Zelda series... 
 
 As I've been looking for a new project I decided to put a [MiSTerFPGA](https://mister-devel.github.io/MkDocs_MiSTer/) build together.
